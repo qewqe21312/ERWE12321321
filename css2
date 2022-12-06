@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/grandstander/v11/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQDwG-D3g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/grandstander/v11/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1--D3g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/grandstander/v11/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD22-D3g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/grandstander/v11/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD4G5D3g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/grandstander/v11/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD7i5D3g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 800;
+  src: url(s/grandstander/v11/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD9-5D3g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Grandstander';
+  font-style: normal;
+  font-weight: 900;
+  src: url(s/grandstander/v11/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD_a5D3g.ttf) format('truetype');
+}
